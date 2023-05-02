@@ -1,0 +1,16 @@
+PODS:
+  - Authentication_Mobifilia (0.1.0)
+
+DEPENDENCIES:
+  - Authentication_Mobifilia (from `../`)
+
+EXTERNAL SOURCES:
+  Authentication_Mobifilia:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Authentication_Mobifilia: 8e48995ae5c1edee2c4e86c51b5da4e78f8a3f5c
+
+PODFILE CHECKSUM: 8ee346aba257511066d1f77bccdb7e129f11b025
+
+COCOAPODS: 1.12.1

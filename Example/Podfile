@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'Authentication_Mobifilia_Example' do
+  pod 'Authentication_Mobifilia', :path => '../'
+
+  target 'Authentication_Mobifilia_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

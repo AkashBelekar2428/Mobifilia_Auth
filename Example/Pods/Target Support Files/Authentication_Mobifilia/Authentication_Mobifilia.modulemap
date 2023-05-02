@@ -1,0 +1,6 @@
+framework module Authentication_Mobifilia {
+  umbrella header "Authentication_Mobifilia-umbrella.h"
+
+  export *
+  module * { export * }
+}
